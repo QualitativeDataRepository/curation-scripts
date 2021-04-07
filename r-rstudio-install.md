@@ -10,7 +10,7 @@
 
 Now that R is installed, you need to download and install RStudio. 
 
-###Download RStudio
+### Download RStudio
 
 1. Go to https://rstudio.com/products/rstudio/download/#download
 2. Click on “Download RStudio For Windows” (or different OS if applicable)
