@@ -1,4 +1,6 @@
 'Converts a folder with .txt files to .doc files
+'From https://social.technet.microsoft.com/Forums/office/en-US/32cb406f-36f7-4570-8a8f-860611e34da0/how-can-i-batch-convert-txt-to-docx-or-doc-files-?forum=word
+'Copyright © Paul Edstein; reproduced under fair use
 'Run using F5, then select folder. .doc files appear in the same folder
 
 Sub ConvertFiles()
